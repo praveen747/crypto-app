@@ -1,3 +1,9 @@
+# Author
+
+Praveenkumar Padamati
+All rights reserved @Praveenkumar Padamati
+https://github.com/praveen747
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
